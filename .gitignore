@@ -32,4 +32,4 @@ serviceAccount*.json
 # VS Code: share only recommended extensions and settings
 .vscode/*
 !.vscode/extensions.json
-!.vscode/settings.json
+!.vscode/settings.json.DS_Store
