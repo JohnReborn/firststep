@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "vscjava.vscode-java-pack",
+      "vmware.vscode-boot-dev-pack",
+      "github.vscode-pull-request-github",
+      "github.vscode-github-actions",
+      "redhat.vscode-yaml"
+    ]
+  }
